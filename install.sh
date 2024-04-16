@@ -97,4 +97,4 @@ fi
 
 echo -e "\033[0;37;40m"
 echo -e "\033[0;37;32mExecuting Kubescape."
-$KUBESCAPE_EXEC scan
+$KUBESCAPE_EXEC 'scan framework nsa'
