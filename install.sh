@@ -99,3 +99,4 @@ echo -e "\033[0;37;40m"
 echo -e "\033[0;37;32mExecuting Kubescape."
 $KUBESCAPE_EXEC scan control C-0012 -v
 $KUBESCAPE_EXEC scan control C-0013 -v
+$KUBESCAPE_EXEC scan control C-0057 -v
