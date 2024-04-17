@@ -97,9 +97,6 @@ fi
 
 echo -e "\033[0;37;40m"
 echo -e "\033[0;37;32mExecuting Kubescape."
-$KUBESCAPE_EXEC scan control C-0035 -v
-$KUBESCAPE_EXEC scan control C-0015 -v
-$KUBESCAPE_EXEC scan control C-0188 -v
-$KUBESCAPE_EXEC scan control C-0187 -v
-$KUBESCAPE_EXEC scan control C-0007 -v
+$KUBESCAPE_EXEC scan control C-0270 -v
+$KUBESCAPE_EXEC scan control C-0271 -v
 
