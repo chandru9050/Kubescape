@@ -100,3 +100,5 @@ echo -e "\033[0;37;32mExecuting Kubescape."
 $KUBESCAPE_EXEC scan control C-0012 -v
 $KUBESCAPE_EXEC scan control C-0013 -v
 $KUBESCAPE_EXEC scan control C-0057 -v
+$KUBESCAPE_EXEC scan control C-0041 -v
+$KUBESCAPE_EXEC scan control C-0048 -v
